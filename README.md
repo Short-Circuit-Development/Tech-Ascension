@@ -1,5 +1,5 @@
 # Mission
-  This pack is aimed at the strong, the fearless, and the resilient. It is a progressive tech pack that takes you through different ages and chronologies of time and includes some well-known content. This pack also combines these mods to streamline progression and boost immersion.
+  This pack is aimed at the strong, the fearless, and the resilient. It is a progressive tech pack that takes you through different ages and timelines and includes some well-known content. This pack also combines these mods to streamline progression and boost immersion.
   
 Do you want a challenge with incredible rewards waiting at the end? Do you want to push your creativity to the max? Do you want an experience that will encourage deep thinking? Then this pack is for you!
 
