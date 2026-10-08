@@ -36,7 +36,7 @@ Tech Ascension would not be possible without the incredible work of the Minecraf
  
 ### Major Projects
  
-**TerraFirmaCraft**
+#### TerraFirmaCraft
  
 A major foundation of Tech Ascension's survival experience. TerraFirmaCraft completely reworks Minecraft survival, including world generation, resources, metallurgy, climate, food, and technological progression.
  
@@ -54,7 +54,7 @@ Notable developers and contributors include:
 TerraFirmaCraft:
 https://github.com/TerraFirmaCraft/TerraFirmaCraft
  
-**GregTech CEu Modern**
+#### GregTech CEu Modern
  
 A major foundation of Tech Ascension's technological and industrial progression.
  
