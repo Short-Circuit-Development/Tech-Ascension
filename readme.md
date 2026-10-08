@@ -76,7 +76,7 @@ https://github.com/GregTechCEu/GregTech-Modern
  
 ### Inspirations
  
-####TerraFirmaGreg
+#### TerraFirmaGreg
  
 Special acknowledgement to the TerraFirmaGreg team. TerraFirmaGreg demonstrates a deeply integrated combination of TerraFirmaCraft and GregTech, along with technologies such as Create, Ad Astra, and Applied Energistics 2. TerraFirmaGreg has been an inspiration when considering how survival mechanics and large-scale technological progression can coexist within a cohesive modpack.
  
