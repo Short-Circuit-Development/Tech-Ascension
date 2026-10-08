@@ -125,7 +125,7 @@ All trademarks, project names, and third-party content belong to their respectiv
  
 Tech Ascension is independently developed and is not endorsed by or affiliated with the projects listed above unless explicitly stated otherwise.
 
-**_IF SOMEONE REPUBLISHES THIS MODPACK IT IS UNOFFICIAL AND ILLEGITIMATE._**
+**_IF SOMEONE PUBLISHES THIS MODPACK UNDER A DIFFERENT TEAM OR USERNAME, IT IS UNOFFICIAL AND ILLEGITIMATE._**
 
 # ** WIP **
 Still in development!
