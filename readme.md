@@ -32,19 +32,98 @@ Survive. Study. Advance.
   At the pinnacle of "basic" exploration technology lies the Stargate, enabling instantaneous travel across known locations. However, even this marvel cannot breach true dimensions. Doing so would require manipulating singularities and bending spacetime itself; an endeavor most likely unreachable . . .  probably.
 
 ## Credits
-  ...
-
-
-
-
-
-
-
-
-
-
-
-
+Tech Ascension would not be possible without the incredible work of the Minecraft modding community.
+ 
+### Major Projects
+ 
+**TerraFirmaCraft**
+ 
+A major foundation of Tech Ascension's survival experience. TerraFirmaCraft completely reworks Minecraft survival, including world generation, resources, metallurgy, climate, food, and technological progression.
+ 
+Special thanks to the TerraFirmaCraft development team and its many contributors.
+ 
+Notable developers and contributors include:
+- Bioxx
+- Kittychanley
+- Dunkleosteus
+- Dries007
+- Bunsan
+- AlcatrazEscapee
+- Disastermoo
+ 
+TerraFirmaCraft:
+https://github.com/TerraFirmaCraft/TerraFirmaCraft
+ 
+**GregTech CEu Modern**
+ 
+A major foundation of Tech Ascension's technological and industrial progression.
+ 
+Special thanks to the GregTech CEu Modern team and the broader GregTech community for continuing and modernizing GregTech.
+ 
+The current GregTech CEu Modern team includes:
+- KilaBash
+- Tech22
+- serenibyss
+- TheYoungOnion
+- mikerooni
+- omergunr100
+- JurreJelle
+- screret
+- Ghostipedia
+ 
+GregTech CEu Modern:
+https://github.com/GregTechCEu/GregTech-Modern
+ 
+### Inspirations
+ 
+**TerraFirmaGreg**
+ 
+Special acknowledgement to the TerraFirmaGreg team. TerraFirmaGreg demonstrates a deeply integrated combination of TerraFirmaCraft and GregTech, along with technologies such as Create, Ad Astra, and Applied Energistics 2. TerraFirmaGreg has been an inspiration when considering how survival mechanics and large-scale technological progression can coexist within a cohesive modpack.
+ 
+Tech Ascension is an independent project and is not affiliated with the TerraFirmaGreg team.
+ 
+TerraFirmaGreg:
+https://terrafirmagreg.team/
+ 
+**GT New Horizons**
+ 
+Special acknowledgement to the GT New Horizons team and its enormous community of contributors. GT New Horizons has been an inspiration for Tech Ascension's approach to long-form progression, technological advancement, and large-scale modpack design.
+ 
+Tech Ascension is an independent project and is not affiliated with GT New Horizons.
+ 
+GT New Horizons:
+https://www.gtnewhorizons.com/
+ 
+### Additional Major Mods
+ 
+Special thanks to the developers and contributors behind the many other projects used by Tech Ascension, including:
+ 
+- Ad Astra
+- Applied Energistics 2
+- Create
+- Mekanism
+- PneumaticCraft: Repressurized
+- Industrial Foregoing
+- Oritech
+- CC: Tweaked
+- Alchemistry
+- ProjectE
+- Mystical Agriculture
+- Productive Bees
+- The RF Mods Collection
+- Nuclear Science
+- Firmalife
+- and every other mod, library, API, addon, and tool included in Tech Ascension.
+ 
+Please see 'modlist.md' for the complete list of projects included in the modpack.
+ 
+### Community
+ 
+Thank you to every mod developer, artist, contributor, tester, documentation writer, and community member whose work has helped make projects like Tech Ascension possible.
+ 
+All trademarks, project names, and third-party content belong to their respective owners.
+ 
+Tech Ascension is independently developed and is not endorsed by or affiliated with the projects listed above unless explicitly stated otherwise.
 
 **_IF SOMEONE REPUBLISHES THIS MODPACK IT IS UNOFFICIAL AND ILLEGITIMATE._**
 
